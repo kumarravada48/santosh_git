@@ -1,2 +1,2 @@
 # santosh_git
-This is testing purpose cloning
+This is testing purpose
